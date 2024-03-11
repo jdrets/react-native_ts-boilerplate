@@ -1,4 +1,4 @@
-# React Native - Boilerplate
+# React Native with Expo - Boilerplate
 Simple boilerplate for start a new project without problems.
 
 ## Stack:

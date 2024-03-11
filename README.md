@@ -6,6 +6,8 @@ Simple boilerplate for start a new project without problems.
 - Expo 50
 - React native paper 5.12
 
+React native paper component docs (https://callstack.github.io/react-native-paper/)
+
 ## How check on my computer
 
 1 - Clone the repo
